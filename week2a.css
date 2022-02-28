@@ -1,0 +1,21 @@
+.part1 h2{
+color:red;
+padding: 20px;
+}
+.part1 p{
+    background-color: black;
+    color: white;
+    padding: 20px;
+}
+.part2 h2{
+    color:green;
+    padding: 20px;
+    }
+    .part2 p{
+        background-color:darkblue;
+        color:green;
+        padding: 20px;
+    }
+    .part3{
+        color: green;
+    }
