@@ -21,6 +21,10 @@ nav{
 li{
     display: inline-flex;
 }
+ul{
+    display: flex;
+    justify-content: space-evenly;
+}
 main{
     background-color:darkblue ;
     color: white;
